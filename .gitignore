@@ -1,0 +1,18 @@
+# OS & Editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Dependencies & Build artifacts
+node_modules/
+dist/
+.dist/
+.qodo/
+
+# Logs
+*.log
+npm-debug.log*
